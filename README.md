@@ -5,3 +5,6 @@ reference: https://hs-paik.netlify.app/thesis
 
 ![Intro](https://github.com/suk1998/Gamut-Mapping/blob/master/engineering01.png)
 
+![Curve_Algorithm](https://github.com/suk1998/Gamut-Mapping/blob/master/engineering02.png)
+
+![Linear_vs_Curve_Algorithm](https://github.com/suk1998/Gamut-Mapping/blob/master/engineering03.png)
