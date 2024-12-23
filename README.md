@@ -3,3 +3,5 @@ Additionally, it provides users with greater flexibility to subjectively control
 
 reference: https://hs-paik.netlify.app/thesis
 
+![Intro](https://github.com/suk1998/Gamut-Mapping/blob/master/engineering01.png)
+
